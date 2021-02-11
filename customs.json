@@ -1,0 +1,29 @@
+{
+    "elements": {},
+    "attributes": {
+        "th:text": {
+            "context": "td"
+        },
+        "th:if": {
+            "context": "div"
+        },
+        "layout:decorate": {
+            "context": "html"
+        },
+        "th:action": {
+            "context": "form"
+        },
+        "th:href": {
+            "context": "link"
+        },
+        "th:each": {
+            "context": "tr"
+        },
+        "th:value": {
+            "context": "input"
+        },
+        "layout:fragment": {
+            "context": "section"
+        }
+    }
+}
